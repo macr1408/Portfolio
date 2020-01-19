@@ -1,3 +1,3 @@
-# This is my portfolio :)
+This is my portfolio
 
-#### Rework coming soon
+Built with Nuxt Js
