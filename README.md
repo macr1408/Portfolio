@@ -1,3 +1,3 @@
-This is my portfolio
+## This is my portfolio
 
 Built with Nuxt Js
